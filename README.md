@@ -2,7 +2,7 @@
 
 This repository provides the source code for reproducing the simulation studies on the nested error regression (NER) model, as presented in the paper **"Priors for second-order unbiased Bayes estimators"**. The code allows you to generate data, estimate Bayes estimators using different priors, and create summary plots for performance metrics such as bias, MSE, and coverage probability.
 
-**Paper reference**: (TBU)
+**Paper reference**:  Mana Sakai, Takeru Matsuda, and Tatsuya Kubokawa. (2024). Priors for second-order unbiased Bayes estimators. [arXiv:2412.19187](https://arxiv.org/abs/2412.19187).
 
 ### Implementation
 
